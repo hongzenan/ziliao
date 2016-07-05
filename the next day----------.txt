@@ -1,0 +1,27 @@
+javascript和angular.js
+idea
+apache
+debug
+
+
+angular.js+jersey 搭建 application
+
+
+思维导图
+zz:spring boot
+zz:bootstrap，css写UI：https://projects.invisionapp.com/share/V97OORNBA#/screens
+firefox的使用
+git，bitbucket
+zz:salesforce.com(SalesForceDotCom)
+zz:HTTP RESTFUL
+zz:openstack
+esupport
+框架的知识http://container-solutions.com/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute-part-2/
+
+SQL,W3.CSS
+
+angular.js学习:
+1.Build Your Own AngularJS  and  mastering web application development with angular.js
+2.AngularJS中国社区
+
+晚上每天花1.5到2小时学习，最近因为忙着AngularJS，就可以看AngularJS，等忙过了，就学新技术或者看书。

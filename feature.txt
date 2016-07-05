@@ -1,0 +1,7 @@
+(1) add a KB (knowledge base) doc 
+(2) search for a KB doc based on a keyword
+(3) search for a case and return the case info
+(4) set up a RESTFUL API that can return a KB doc (for example, webex client can call this API to get a KB doc.)
+(5) add a searchable tag or attribute to a KB doc
+(6) setup a website on SFDC (this is to study if we can put the new help portal on SFDC.)
+(7) CI validation for privileges

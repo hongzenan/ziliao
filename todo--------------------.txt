@@ -1,0 +1,11 @@
+1.看一下WebExCode....在有用的文件里
+2.看一下AllInOne在white里
+3.学javascript和angular.js
+4.学一下git，bitbucket，
+学debug，
+学大数据搜索引擎，
+深入Struct1.x，
+学Jersey框架，学RESTful.api，
+JSON--yml
+学idea
+学apache

@@ -1,0 +1,39 @@
+bitbucket：https://bitbucket-eng-chn-sjc1.cisco.com/bitbucket/login?next=/projects/CCTGFORK
+
+不明网址：https://itst-prd.cisco.com:5431/arsys/shared/login.jsp?/arsys/home
+
+cisco wiki：wiki.cisio.com
+
+wewbex rmc：rmc.webex.com
+
+更新excel：\\10.224.172.65\pso\DOC_Center\Individual\NewMember
+
+管理工具：https://cloudsso.cisco.com/idp/startSSO.ping?PartnerSpId=sso.rallydev.com
+
+Diary Reporter：https://vpnt.hengtiansoft.com
+
+site(SuperAdmin)：https://t29sa.qa.webex.com/superadmin/login.jsp   账号：psoqa  密码：psoqa
+
+网讯资料： pso.hz.webex.com/pso
+
+白带： http://wwwin-csdl.cisco.com/ninja_dojo/?ref=email120213
+
+source code and test suite:https://github.com/teropa/build-your-own-angularjs/
+
+AngularJS动画include：http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-animate.js
+
+Spark code repo:https://sqbu-github.cisco.com/WebExSquared
+
+Spark Wiki:https://wiki.cisco.com/display/WX2
+
+selfhelp:https://sqbu-github.cisco.com/zeaz/selfhelp.git
+                https://sqbu-github.cisco.com/zeaz/selfhelp
+
+github on youtobe:https://www.youtube.com/c/github
+
+selfhelp的Rally:https://rally1.rallydev.com/#/58547715255d/backlog
+         https://rally1.rallydev.com/#/58547715255d/backlog
+		 
+资料共享：10.224.188.12
+
+HELP CENTRAL:https://projects.invisionapp.com/share/V97OORNBA#/screens
